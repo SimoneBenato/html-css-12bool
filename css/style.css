@@ -3,6 +3,10 @@
 }
 
 [class*="col-"] {
-    background-color: lightskyblue;
-    border: 1px solid black;
+    background-color: #056cfa;
+    border: 1px solid white;
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
