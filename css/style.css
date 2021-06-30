@@ -1,8 +1,4 @@
-.row {
-    height: 50px;
-}
-
-[class*="col-"] {
+.box {
     background-color: #056cfa;
     border: 1px solid white;
     color: white;
