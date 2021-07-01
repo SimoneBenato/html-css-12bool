@@ -32,3 +32,23 @@
 .white {
     background-color: white !important; 
 }
+
+.start {
+    justify-content: flex-start;
+}
+
+.center {
+    justify-content: center;
+}
+
+.end {
+    justify-content: flex-end;
+}
+
+.saround {
+    justify-content: space-around;
+}
+
+.sbetween {
+    justify-content: space-between;
+}
